@@ -4,3 +4,5 @@ Data Science course conducted by University of Machigan.
 ## Module 1: Introduction to Data Science  in Python.
 ## Module 2: Applied Plotting, Charting & Data Representation in Python.
 ## Module 3: Applied Machine learning  in Python.
+## Module 4: Applied Text Mining in Python.
+## Module 5: Applied Social Network Analysis in Python.
